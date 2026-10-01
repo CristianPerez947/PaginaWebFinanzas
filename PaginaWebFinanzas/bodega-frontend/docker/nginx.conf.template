@@ -1,0 +1,15 @@
+server {
+    listen ${PORT};
+    server_name _;
+    root /usr/share/nginx/html;
+    index index.html;
+
+    # config.json y index.html nunca se cachean (la URL del API puede cambiar sin recompilar)
+    location = /config.json { add_header Cache-Control "no-store"; }
+    location = /index.html  { add_header Cache-Control "no-store"; }
+
+    # Aplicación de una sola página: cualquier ruta sirve index.html
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+}

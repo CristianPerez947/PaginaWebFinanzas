@@ -1,0 +1,35 @@
+Coloque aquí las imágenes de los productos (formato .jpg o .png).
+El nombre del archivo debe coincidir con el campo "imagen" del producto.
+Si falta una imagen, la aplicación muestra un ícono en su lugar.
+
+Archivos usados por los datos de demostración (La Tiendita de Don Pepe y Bodega Doña Rosa):
+arroz-costeno.jpg
+azucar-rubia.jpg
+aceite-primor.jpg
+fideos-don-vittorio.jpg
+lentejas.jpg
+avena-3-ositos.jpg
+atun-florida.jpg
+leche-gloria.jpg
+yogurt-gloria.jpg
+queso-fresco.jpg
+huevos-rosados.jpg
+pollo-entero.jpg
+pan-frances.jpg
+inca-kola-1-5l.jpg
+coca-cola-2l.jpg
+agua-san-luis.jpg
+cerveza-cristal.jpg
+galletas-soda-field.jpg
+papas-lays.jpg
+chocolate-sublime.jpg
+detergente-bolivar.jpg
+lejia-clorox.jpg
+jabon-bolivar.jpg
+papel-higienico-elite.jpg
+shampoo-head-shoulders.jpg
+pasta-dental-colgate.jpg
+bidon-agua.jpg
+balon-gas.jpg
+canasta-basica.jpg
+pack-utiles.jpg

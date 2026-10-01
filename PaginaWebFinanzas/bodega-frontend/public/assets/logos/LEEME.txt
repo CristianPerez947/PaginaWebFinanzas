@@ -1,0 +1,4 @@
+Coloque aquí los logotipos de las tiendas (.png o .jpg). El nombre debe coincidir con el campo "logo" de la tienda.
+Datos de demostración:
+logo-don-pepe.png
+logo-dona-rosa.png
